@@ -4,4 +4,4 @@
 
 [submodule "testing"]
 	path = testing
-	url = git://github.com/anhkhoi/utils-testing.git
+	url = https://anhkhoi@github.com/anhkhoi/utils.git
