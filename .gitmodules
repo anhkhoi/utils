@@ -2,6 +2,3 @@
 	path = app_clicker
 	url = git://github.com/anhkhoi/utils-app_clicker.git
 
-[submodule "testing"]
-	path = testing
-	url = https://anhkhoi@github.com/anhkhoi/utils.git
