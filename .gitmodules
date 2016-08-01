@@ -1,4 +1,0 @@
-[submodule "app_clicker"]
-	path = app_clicker
-	url = git://github.com/anhkhoi/utils-app_clicker.git
-
